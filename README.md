@@ -1,88 +1,47 @@
-Welcome to the Project
-Project Info
+TerraCycles
 
-Live URL: https://your-live-site-url-here
+This is a modern and simple website designed to showcase and market different types of cycles.
+The website focuses on clean design, easy navigation, and clear product presentation to help users explore available cycles.
 
-How can I edit this code?
+Live Website
 
-There are several ways to edit and maintain this application.
+https://your-live-site-url-here
 
-Use your preferred IDE (Recommended)
+About the Project
 
-You can work locally using your own IDE such as VS Code.
+1. The Cycle Store website is built to:
 
-Requirements
+2. Display different categories of cycles
 
-Node.js
+3. Highlight features and uses of each cycle
 
-npm
-(Recommended: install via nvm)
+4. Provide a smooth and visually clean user experience
 
-Steps
+5. Help promote and market cycle products online
 
-# Step 1: Clone the repository
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install dependencies
-npm install
-
-# Step 4: Start the development server
-npm run dev
+6. The design is simple but modern, suitable for both desktop and mobile users.
 
 
-The development server supports hot reload for faster development.
+Features
 
-Edit files directly on GitHub
+Modern and responsive UI
 
-Navigate to the file you want to edit.
+Multiple cycle categories (e.g., mountain, city, kids)
 
-Click the Edit (pencil) icon.
+Product showcase sections
 
-Make your changes.
+Clean layout with smooth navigation
 
-Commit the changes to the repository.
+Mobile-friendly design
 
-Use GitHub Codespaces
+Technologies Used
 
-Go to your repository’s main page.
+1. HTML
 
-Click the Code button.
+2. CSS
 
-Open the Codespaces tab.
+3. JavaScript
 
-Click New codespace.
+4. Vite
 
-Edit files directly in the browser and push your changes.
-
-Technologies used
-
-This project is built with:
-
-Vite
-
-TypeScript
-
-React
-
-shadcn/ui
-
-Tailwind CSS
-
-Deployment
-
-This project can be deployed using platforms such as:
-
-GitHub Pages (frontend only)
-
-Vercel (recommended for frontend + backend APIs)
-
-Netlify (frontend)
-
-For backend functionality (contact forms, reviews, MongoDB), Vercel serverless functions are recommended.
-
-Custom Domain
-
-You can connect a custom domain using your hosting provider’s domain settings (e.g., Vercel Domains or Netlify Domains).
+5. TypeScript
