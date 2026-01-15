@@ -42,6 +42,4 @@ Technologies Used
 
 3. JavaScript
 
-4. Vite
-
-5. TypeScript
+4. TypeScript
